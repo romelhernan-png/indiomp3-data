@@ -1,1 +1,283 @@
+[
+  {
+    "id": "0_grados",
+    "name": "0 grados ni frio ni calor",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/0%20grados%20ni%20frio%20ni%20calor.mp3"
+  },
+  {
+    "id": "amarren_esa",
+    "name": "Amarren esa puta",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Amarren%20esa%20puta.mp3"
+  },
+  {
+    "id": "arianita_canta",
+    "name": "Arianita canta inglés Michael Jackson",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Arianita%20canta%20ingles%20michel%20jackson.mp3"
+  },
+  {
+    "id": "arianita_peluca",
+    "name": "Arianita se le cae la peluca",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Arianita%20se%20le%20cae%20la%20peluca.mp3"
+  },
+  {
+    "id": "bala_nachito",
+    "name": "Bala muchachos Nachito",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Bala%20muchachos%20Nachito.mp3"
+  },
+  {
+    "id": "bala_muchachos",
+    "name": "Bala muchachos",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Bala%20muchachos.mp3"
+  },
+  {
+    "id": "beso_ooooy",
+    "name": "Beso ooooy",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/beso%20ooooy.ogg"
+  },
+  {
+    "id": "besos_rosquete",
+    "name": "Besos en el rosquete",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/besos%20en%20el%20rosquete.ogg"
+  },
+  {
+    "id": "brayan_ayudame",
+    "name": "Brayan ayúdame un negro viene corriendo",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Brayan%20ayudame%20un%20negro%20viene%20corriendo.mp3"
+  },
+  {
+    "id": "buenos_dias",
+    "name": "Buenos días, buenos días",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Buenos%20dias,%20buenos%20dias.mp3"
+  },
+  {
+    "id": "cachero_malo",
+    "name": "Cachero malo",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Cachero%20malo.mp3"
+  },
+  {
+    "id": "chino_ecuador",
+    "name": "Chino Ecuador",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Chino%20Ecuador.mp3"
+  },
+  {
+    "id": "comentenmelo",
+    "name": "Comentenmelo todo y exageren",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Comentenmelo%20todo%20y%20exageren.mp3"
+  },
+  {
+    "id": "agregan_grupos",
+    "name": "Como cuando te agregan a grupos",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Como%20cuando%20te%20agregan%20a%20grupos.mp3"
+  },
+  {
+    "id": "ano_mariconenando",
+    "name": "Como quieres empezar el año mariconenando",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Como%20quieres%20empezar%20el%20a%C2%A4o%20mariconenando.mp3"
+  },
+  {
+    "id": "comprame_papipollo",
+    "name": "Cómprame una papipollo",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Comprame%20una%20papipollo.mp3"
+  },
+  {
+    "id": "burrito_sabanero",
+    "name": "Con mi burrito sabanero zorro",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/con%20mi%20burrito%20sabanero%20zorro.ogg"
+  },
+  {
+    "id": "seco_derrite",
+    "name": "El seco se derrite",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/El%20seco%20se%20derrite.mp3"
+  },
+  {
+    "id": "switch_luz",
+    "name": "El switch de la luz",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/El%20switch%20de%20la%20luz.mp3"
+  },
+  {
+    "id": "viejos_verga",
+    "name": "Estamos viejos pero con la verga tiesa",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/estamos%20viejos%20pero%20con%20la%20verga%20tiesa.ogg"
+  },
+  {
+    "id": "mamditas",
+    "name": "Estas son las mamditas",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Estas%20son%20las%20mamditas.mp3"
+  },
+  {
+    "id": "feliz_ano_gordito",
+    "name": "Feliz año al gordito",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/feliz%20a%C2%A4o%20al%20gordito.ogg"
+  },
+  {
+    "id": "feliz_ano_camaretas",
+    "name": "Feliz año las camaretas dobla2",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/feliz%20a%C2%A4o%20las%20camaretas%20dobla2.mpeg"
+  },
+  {
+    "id": "fresa_salvaje",
+    "name": "Fresa salvaje",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Fresa%20salvaje.mp3"
+  },
+  {
+    "id": "grupo_prostitucion",
+    "name": "Grupo prostitución",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Grupo%20prostitucion.mp3"
+  },
+  {
+    "id": "hoy_juega",
+    "name": "Hoy juega Barcelona",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Hoy%20juega%20Barcelona.mp3"
+  },
+  {
+    "id": "vamos_biela",
+    "name": "Hoy vamos a tomar biela como hombre",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Hoy%20vamos%20a%20tomar%20biela%20como%20hombre.mp3"
+  },
+  {
+    "id": "huevo_muerto",
+    "name": "Huevo muerto",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Huevo%20muerto.mp3"
+  },
+  {
+    "id": "mensajea_durisisimo",
+    "name": "La gente mensajea durisisimo",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/La%20gente%20mensajea%20durisisimo.mp3"
+  },
+  {
+    "id": "vida_homosexual",
+    "name": "La vida del homosexual complicada",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/La%20vida%20del%20homosexual%20complicada.mp3"
+  },
+  {
+    "id": "leche_oido",
+    "name": "Leche en el oído",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Leche%20en%20el%20oido.mp3"
+  },
+  {
+    "id": "lisa_zorro",
+    "name": "Lisa M zorro cantando",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/lisa%20m%20zorro%20cantando.ogg"
+  },
+  {
+    "id": "llegaron_cagaguado",
+    "name": "Llegaron los cagaguado",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/llegaron%20los%20cagaguado.ogg"
+  },
+  {
+    "id": "no_se_pregunta",
+    "name": "Lo que se ve no se pregunta mijo",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Lo%20que%20se%20ve%20no%20se%20pregunta%20mijo.mp3"
+  },
+  {
+    "id": "lo_tengo_engrupido",
+    "name": "Lo tengo engrupido",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Lo%20tengo%20engrupido.mp3"
+  },
+  {
+    "id": "hambrientos_grupo",
+    "name": "Los hambrientos del grupo",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Los%20hambrientos%20del%20grupo.mp3"
+  },
+  {
+    "id": "menestron_bambi",
+    "name": "Me choco el menestrón como Bambi",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Me%20choco%20el%20menestron%20como%20bambi.mp3"
+  },
+  {
+    "id": "mima",
+    "name": "Mima",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Mima.mp3"
+  },
+  {
+    "id": "grupo_huevo",
+    "name": "No sé por qué me agregan en este grupo de huevo",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/No%20se%20por%20que%20me%20agregan%20en%20este%20grupo%20de%20huevo.mp3"
+  },
+  {
+    "id": "nunca_he_visto",
+    "name": "Nunca he visto una tanda de hijuep",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Nunca%20he%20visto%20una%20tanda%20de%20hijuep.mp3"
+  },
+  {
+    "id": "peor_error",
+    "name": "Peor error amigo",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Peor%20error%20amigo.mp3"
+  },
+  {
+    "id": "preparete_bala",
+    "name": "Prepárate para que sienta bala bala",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/preparete%20para%20que%20sienta%20bala%20bala.ogg"
+  },
+  {
+    "id": "vestido",
+    "name": "Qué hace que me compre un vestido",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Que%20hace%20que%20me%20compre%20un%20vestido.mp3"
+  },
+  {
+    "id": "choclo_sopa",
+    "name": "Que me partan como choclo para sopa",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Que%20me%20partan%20como%20choclo%20para%20sopa.mp3"
+  },
+  {
+    "id": "acurrucado_tigre",
+    "name": "Quedarse acurrucado sábana de tigre",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/quedarse%20acurrucado%20sabana%20de%20tigre.mp3"
+  },
+  {
+    "id": "sabado_cuerpo",
+    "name": "Sábado y el cuerpo lo sabe",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Sabado%20y%20el%20cuerpo%20lo%20sabe.mp3"
+  },
+  {
+    "id": "saludito_mudo",
+    "name": "Saludito del mudo",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Saludito%20del%20mudo.mp3"
+  },
+  {
+    "id": "senores_cabina",
+    "name": "Señores de la cabina",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Se%C2%A4ores%20de%20la%20cabina.mp3"
+  },
+  {
+    "id": "subida_carruseles",
+    "name": "Subida en los carruseles",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Subida%20en%20los%20carruseles.mp3"
+  },
+  {
+    "id": "tiene_pezuna",
+    "name": "Tiene pezuña zorro",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/tiene%20pezu%C2%A4a%20zorro.ogg"
+  },
+  {
+    "id": "todos_desnudos",
+    "name": "Todos desnudos en la piscina oooy",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/todos%20desnudos%20en%20la%20psicina%20oooy.ogg"
+  },
+  {
+    "id": "no_tienes_sueno",
+    "name": "Tú no tienes sueño",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Tu%20no%20tienes%20sue%C2%A4o.mp3"
+  },
+  {
+    "id": "animal_desconocido",
+    "name": "Un animal que no conozco",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Un%20animal%20que%20no%20conozco.mp3"
+  },
+  {
+    "id": "vendiendo_avon",
+    "name": "Vendiendo Avon",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Vendiendo%20Avon.mp3"
+  },
+  {
+    "id": "micky_mouse",
+    "name": "Ya me voy a dormir Micky Mouse",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Ya%20me%20voy%20a%20dormir%20micky%20mouse.mp3"
+  },
+  {
+    "id": "no_te_enojes",
+    "name": "Ya pero no te enojes",
+    "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Ya%20pero%20no%20te%20enojes.mp3"
+  }
+]
 
