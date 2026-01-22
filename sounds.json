@@ -279,5 +279,15 @@
     "name": "Ya pero no te enojes",
     "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/Ya%20pero%20no%20te%20enojes.mp3"
   }
+  {
+    "id": "yo le quiero parar el huevo",
+    "name": "yo le quiero parar el huevo",
+    "url": "https://github.com/romelhernan-png/indiomp3-data/raw/refs/heads/main/sounds/yo%20le%20quiero%20parar%20el%20huevo.ogg"
+  }
+  {
+    "id": "caramelo de chocolate",
+    "name": "caramelo de chocolate",
+    "url": "https://github.com/romelhernan-png/indiomp3-data/raw/refs/heads/main/sounds/caramelo%20de%20chocolate.ogg"
+  }
 ]
 
