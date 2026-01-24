@@ -288,6 +288,22 @@
     "id": "caramelo de chocolate",
     "name": "caramelo de chocolate",
     "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/caramelo%20de%20chocolate.ogg"
-  }
+  },
+  {
+  "id": "pongase_a_rallar_platanos",
+  "name": "Póngase a rallar plátanos",
+  "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/pongase_a_rallar_platanos.mp3"
+},
+{
+  "id": "que_pasa_mi_gordo",
+  "name": "Qué pasa mi gordo",
+  "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/que_pasa_mi_gordo.mp3"
+},
+{
+  "id": "ya_mi_amor",
+  "name": "Ya mi amor",
+  "url": "https://romelhernan-png.github.io/indiomp3-data/sounds/ya_mi_amor.mp3"
+}
+
 ]
 
